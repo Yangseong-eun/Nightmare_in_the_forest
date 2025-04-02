@@ -96,6 +96,12 @@ Unity와 Oculus Quest 2를 활용해 **몰입형 VR 경험**을 제공하며,
 - AllSkyFree Skybox  
 
 ---
+## 🎬 발표 영상 보기
+
+[▶ 발표 영상 보기 (Google Drive)](https://drive.google.com/file/d/1OD_2Vck9AHS0SDuGtN4FqxWqHlKF1vsn/view?usp=sharing)
+
+---
+
 
 ## 🙏 감사합니다!
 
