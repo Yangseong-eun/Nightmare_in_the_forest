@@ -1,7 +1,9 @@
+# 🌲 Nightmare in the Lost Forest
+
 > VR 기반의 몰입형 동화 스토리 어드벤처 게임  
 > **Unity + Oculus Quest 2** 환경에서 개발된 VR 게임입니다.
 
-![Main Banner](extracted_images/image_0.png)
+![Main Banner](Nightmare_Portfolio_Images/image_0.png)
 
 ---
 
@@ -17,7 +19,7 @@ Unity와 Oculus Quest 2를 활용해 **몰입형 VR 경험**을 제공하며,
 
 ## 🎮 게임 진행 방식
 
-![Storyboard](extracted_images/image_1.jpg)
+![Storyboard](Nightmare_Portfolio_Images/image_1.jpg)
 
 - VR 컨트롤러를 통해 직접 상호작용
 - 어두운 숲을 탐험하며 단서와 오브젝트를 발견
@@ -54,14 +56,14 @@ Unity와 Oculus Quest 2를 활용해 **몰입형 VR 경험**을 제공하며,
 
 ### 📍 게임 시나리오 & 환경
 
-![Storyboard Panel](extracted_images/image_2.png)
-![Game Direction](extracted_images/image_3.png)
+![Storyboard Panel](Nightmare_Portfolio_Images/image_2.png)  
+![Game Direction](Nightmare_Portfolio_Images/image_3.png)
 
 ---
 
 ## ⚠️ 구현 중 어려웠던 점
 
-![Challenge Slide](extracted_images/image_4.png)
+![Challenge Slide](Nightmare_Portfolio_Images/image_4.png)
 
 - Unity를 데스크탑이 아닌 Oculus에 직접 연동하려다 보니 예기치 않은 문제들이 많았음
 - VR 컨트롤, 상호작용, UI 등 모든 것을 새롭게 이해하고 적용해야 했음
@@ -88,10 +90,10 @@ Unity와 Oculus Quest 2를 활용해 **몰입형 VR 경험**을 제공하며,
 
 ## 📦 사용 에셋
 
-- Stylized NPC - Peasant Nolant
-- JMO Character Animation Pack
-- Free Fantasy Adventure Music Pack
-- AllSkyFree Skybox
+- Stylized NPC - Peasant Nolant  
+- JMO Character Animation Pack  
+- Free Fantasy Adventure Music Pack  
+- AllSkyFree Skybox  
 
 ---
 
